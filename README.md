@@ -51,7 +51,7 @@ git clone https://github.com/vanshikaraje/colabzi-landing.git
 cd colabzi-landing
 
 # Install dependencies
-npm install   # or yarn / pnpm / bun
+npm install   # or yarn / pnpm / bun/
 
 # Start development server
 npm run dev
