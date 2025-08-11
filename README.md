@@ -1,4 +1,4 @@
-# 🌐 Colabzi – AI-Powered Collaboration Platform
+# 🌐  – AI-Powered Collaboration Platform
 
 ![Next.js]
 ![TailwindCSS]
