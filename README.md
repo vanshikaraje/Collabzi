@@ -1,4 +1,4 @@
-# 🌐  – AI-Powered Collaboration Platform
+# Landing page
 
 ![Next.js]
 ![TailwindCSS]
