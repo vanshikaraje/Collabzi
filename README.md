@@ -8,7 +8,7 @@
 > **Colabzi** is a smart collaboration platform that connects creators and sponsors through an intuitive, AI-powered interface.  
 > This landing page is built by **Vanshika Raje** using the latest frontend stack and follows a clean, professional dark-themed design.
 
---
+-
 
 ## 🚀 Live Demo
 
